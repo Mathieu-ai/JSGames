@@ -1,9 +1,9 @@
 {
     "message": "Which sort do you prefer?",
     "options": {
-        "n1": "By Class,Average,name with Only the value",
-        "n2": "by Class,average,name with Property and Value",
-        "n3": "By Average",
-        "n4": "By Average, name"
+        "n1": "Sort:: Class, Average, lastName + value",
+        "n2": "Sort:: Class, Average, lastName + Property&Value",
+        "n3": "Sort:: Average",
+        "n4": "Sort:: Average, lastName"
     }
 }

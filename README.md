@@ -2,6 +2,8 @@
 
 JSgames is a repository of Javascript programs
 
+## DEMO
+
 ## Installation
 
 use either [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/) to install the modules.

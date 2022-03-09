@@ -28,5 +28,7 @@ inquirer
             Option.Option1(data);
         } else if (answers.options === text.options.n2) {
             Option.Option2(data);
-        } else console.info('Answer:other');
+        } else if (answers.options === text.options.n3) {
+            Option.Option3(data);
+        } else Option.Option4(data);
     });

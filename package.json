@@ -5,13 +5,13 @@
     "main": "index.js",
     "type": "module",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "none": "echo \"None: no test for now\" && exit 1"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "inquirer": "^8.2.1",
-        "lodash": "^4.17.21"
+        "fs": "^0.0.1-security",
+        "inquirer": "^8.2.1"
     }
 }

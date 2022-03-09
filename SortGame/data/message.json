@@ -1,0 +1,9 @@
+{
+    "message": "Which sort do you prefer?",
+    "options": {
+        "n1": "By Class,Average,name with Only the value",
+        "n2": "by Class,average,name with Property and Value",
+        "n3": "By Average",
+        "n4": "By Average, name"
+    }
+}

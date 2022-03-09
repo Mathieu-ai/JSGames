@@ -1,0 +1,6 @@
+#Folders
+node_modules/
+ex01_AverageOfMark/
+
+#Log of packages
+*.lock

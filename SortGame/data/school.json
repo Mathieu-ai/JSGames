@@ -1,0 +1,250 @@
+[
+    {
+        "studentId": "CASY",
+        "className": "CDGPB2",
+        "firstName": "Chris",
+        "lastName": "Aubry",
+        "moyenne": 15,
+        "emailAddress": "chris.aubry@iwtkm.net"
+    },
+    {
+        "studentId": "VMED",
+        "className": "CDGPB2",
+        "firstName": "Valerie",
+        "lastName": "Maillard",
+        "moyenne": 13,
+        "emailAddress": "valerie.maillard@iwtkm.net"
+    },
+    {
+        "studentId": "LBNR",
+        "className": "CDGPB2",
+        "firstName": "Leon",
+        "lastName": "Bouvier",
+        "moyenne": 10,
+        "emailAddress": "leon.bouvier@iwtkm.net"
+    },
+    {
+        "studentId": "JCNT",
+        "className": "AMMB2",
+        "firstName": "Jean",
+        "lastName": "Clement",
+        "moyenne": 9,
+        "emailAddress": "jean.clement@iwtkm.net"
+    },
+    {
+        "studentId": "MLEE",
+        "className": "CDGPB2",
+        "firstName": "Marie",
+        "lastName": "Lemaire",
+        "moyenne": 16,
+        "emailAddress": "marie.lemaire@iwtkm.net"
+    },
+    {
+        "studentId": "FSET",
+        "className": "ITAIB2",
+        "firstName": "Fabrice",
+        "lastName": "Schmitt",
+        "moyenne": 12,
+        "emailAddress": "fabrice.schmitt@iwtkm.net"
+    },
+    {
+        "studentId": "CLEX",
+        "className": "ITAIB2",
+        "firstName": "Corine",
+        "lastName": "Lacroix",
+        "moyenne": 11,
+        "emailAddress": "corine.lacroix@iwtkm.net"
+    },
+    {
+        "studentId": "BLEE",
+        "className": "ITAIB2",
+        "firstName": "Blanche",
+        "lastName": "Lecomte",
+        "moyenne": 10,
+        "emailAddress": "blanche.lecomte@iwtkm.net"
+    },
+    {
+        "studentId": "VGED",
+        "className": "ITAIB2",
+        "firstName": "Violette",
+        "lastName": "Guichard",
+        "moyenne": 8,
+        "emailAddress": "violette.guichard@iwtkm.net"
+    },
+    {
+        "studentId": "RDER",
+        "className": "AMMB2",
+        "firstName": "Rose",
+        "lastName": "Dufour",
+        "moyenne": 7.5,
+        "emailAddress": "rose.dufour@iwtkm.net"
+    },
+    {
+        "studentId": "ALED",
+        "className": "AMMB2",
+        "firstName": "Anne",
+        "lastName": "Lanchand",
+        "moyenne": 15.25,
+        "emailAddress": "anne.marchand@iwtkm.net"
+    },
+    {
+        "studentId": "SBAY",
+        "className": "AMMB2",
+        "firstName": "Sara",
+        "lastName": "Bailly",
+        "moyenne": 10.3,
+        "emailAddress": "sara.bailly@iwtkm.net"
+    },
+    {
+        "studentId": "KREU",
+        "className": "ITAIB2",
+        "firstName": "Katie",
+        "lastName": "Rousseau",
+        "moyenne": 9.99,
+        "emailAddress": "katie.rousseau@iwtkm.net"
+    },
+    {
+        "studentId": "PRLR",
+        "className": "ITAIB2",
+        "firstName": "Paul",
+        "lastName": "Royer",
+        "moyenne": 14.85,
+        "emailAddress": "paul.royer@iwtkm.net"
+    },
+    {
+        "studentId": "GLEE",
+        "className": "AMMB2",
+        "firstName": "George",
+        "lastName": "Lee",
+        "moyenne": 18.69,
+        "emailAddress": "george.lee@iwtkm.net"
+    },
+    {
+        "studentId": "XLRT",
+        "className": "CDGPB2",
+        "firstName": "Xavier",
+        "lastName": "Lambert",
+        "moyenne": 19.64,
+        "emailAddress": "xavier.lambert@iwtkm.net"
+    },
+    {
+        "studentId": "WSMS",
+        "className": "CDGPB2",
+        "firstName": "William",
+        "lastName": "Deschamps",
+        "moyenne": 5.6,
+        "emailAddress": "william.deschamps@iwtkm.net"
+    },
+    {
+        "studentId": "QPNS",
+        "className": "CDGPB2",
+        "firstName": "Quentin",
+        "lastName": "Dupuis",
+        "moyenne": 13.89,
+        "emailAddress": "quentin.dupuis@iwtkm.net"
+    },
+    {
+        "studentId": "OREE",
+        "className": "ITAIB2",
+        "firstName": "Oraure",
+        "lastName": "Riviere",
+        "moyenne": 12.65,
+        "emailAddress": "oraure.riviere@iwtkm.net"
+    },
+    {
+        "studentId": "NLNX",
+        "className": "ITAIB2",
+        "firstName": "Nathan",
+        "lastName": "Leroux",
+        "moyenne": 6.66,
+        "emailAddress": "nathan.leroux@iwtkm.net"
+    },
+    {
+        "studentId": "DELL",
+        "className": "ITAIB2",
+        "firstName": "Daniel",
+        "lastName": "Eel",
+        "moyenne": 4.74,
+        "emailAddress": "daniel.lee@iwtkm.net"
+    },
+    {
+        "studentId": "RMTT",
+        "className": "ITAIB2",
+        "firstName": "Robert",
+        "lastName": "Mallet",
+        "moyenne": 15.2,
+        "emailAddress": "robert.mallet@iwtkm.net"
+    },
+    {
+        "studentId": "FLNE",
+        "className": "ITAIB2",
+        "firstName": "Fabien",
+        "lastName": "Leveque",
+        "moyenne": 10.5,
+        "emailAddress": "fabien.leveque@iwtkm.net"
+    },
+    {
+        "studentId": "ONEL",
+        "className": "CDGPB2",
+        "firstName": "Ortence",
+        "lastName": "Noel",
+        "moyenne": 3.4,
+        "emailAddress": "ortence.noel@iwtkm.net"
+    },
+    {
+        "studentId": "CLEN",
+        "className": "AMMB2",
+        "firstName": "Clemence",
+        "lastName": "Lebrun",
+        "moyenne": 12,
+        "emailAddress": "clemence.lebrun@iwtkm.net"
+    },
+    {
+        "studentId": "CMER",
+        "className": "CDGPB2",
+        "firstName": "Claire",
+        "lastName": "Meunier",
+        "moyenne": 12,
+        "emailAddress": "claire.meunier@iwtkm.net"
+    },
+    {
+        "studentId": "TGSR",
+        "className": "AMMB2",
+        "firstName": "Thomas",
+        "lastName": "Gautier",
+        "moyenne": 15.48,
+        "emailAddress": "thomas.gautier@iwtkm.net"
+    },
+    {
+        "studentId": "HMYN",
+        "className": "ITAIB2",
+        "firstName": "Henry",
+        "lastName": "Morin",
+        "moyenne": 12.54,
+        "emailAddress": "henry.morin@iwtkm.net"
+    },
+    {
+        "studentId": "AHEE",
+        "className": "AMMB2",
+        "firstName": "Anabelle",
+        "lastName": "Herve",
+        "moyenne": 6.1,
+        "emailAddress": "anabelle.herve@iwtkm.net"
+    },
+    {
+        "studentId": "CBSN",
+        "className": "AMMB2",
+        "firstName": "Chris",
+        "lastName": "Bertin",
+        "moyenne": 20,
+        "emailAddress": "chris.bertin@iwtkm.net"
+    },
+    {
+        "studentId": "BMEN",
+        "className": "AMMB2",
+        "firstName": "Béatrice",
+        "lastName": "Ajorn",
+        "moyenne": 18.69,
+        "emailAddress": "beatrice.ajorn@iwtkm.net"
+    }
+]
